@@ -1,0 +1,55 @@
+/* HOJA DE ESTILOS - RAMEV*/
+
+
+
+
+#contenedor{ 
+  margin: auto; 
+  background-color: #F6F4F1;
+  width: 1280px;
+  height: 900px;
+ }
+
+ #encabezado{
+  background-image: url("../imagenes/banner.png");
+  width: 1280px;
+  height: 104px;
+
+ }
+
+ #menu{
+  width: 1280px;
+  height: 35px;
+  background-color: #FFF4CD;
+ }
+
+ .opciones{
+  width: 247px;
+  height: 82px;
+  float: left;
+  color: #E5C318; 
+  font-weight: bold;
+  text-align: center;
+  font-size: 15px;
+  font-family: Arial;
+  padding-top: 10px;
+ }
+
+#lugar{
+  width: 1280px;
+  height: 80px;
+  background-color:#BDFF5D;
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+  font-family: Copperplate, sans-serif;
+
+
+
+}
+/*
+ .footer p {
+  font-size: 14px;
+  color: #777;
+}
+*/
